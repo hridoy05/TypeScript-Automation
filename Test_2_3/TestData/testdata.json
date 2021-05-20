@@ -1,0 +1,9 @@
+{
+        "locator":{
+            "lowest_add_value" : "normal--2QYVk", 
+            "date_text" : "sub-title--37mkY", 
+            "element_text" : "heading--2u5sJ",
+            "number_button" : "call-button--3uvWj",
+            "valid_number" : ".phone-numbers--2COKR"
+            }
+}
