@@ -23,7 +23,12 @@ exports.config = {
   suites: {
     dhaka: './Tests/dhaka.spec.ts',
     chattogram: './Tests/chattogram.spec.ts',   
-    
+    sylhet: './Tests/sylhet.spec.ts',
+    khulna: './Tests/khulna.spec.ts',
+    barishal: './Tests/barishal.spec.ts',
+    rangpur: './Tests/rangpur.spec.ts',
+    rajshahi: './Tests/rajshahi.spec.ts',
+    mymensingh: './Tests/mymensingh.spec.ts'
    
 
   },
